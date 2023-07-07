@@ -1,0 +1,36 @@
+.imgdiv{
+    background-image: url('../assets/cheftable.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    transition: ease-in-out 4s;
+    border-radius: 10px;
+}
+.imgdiv:hover{
+    background-position: bottom;
+}
+.imgdiv2{
+    background-image: url('../assets/mathworms.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    transition: ease-in-out 4s;
+    border-radius: 10px;
+}
+.imgdiv2:hover{
+    background-position: bottom;
+}
+.imgdiv3{
+    background-image: url('../assets/craftschool.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    transition: ease-in-out 4s;
+    border-radius: 10px;
+}
+.imgdiv3:hover{
+    background-position: bottom;
+}

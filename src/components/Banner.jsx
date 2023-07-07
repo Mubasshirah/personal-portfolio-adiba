@@ -10,7 +10,7 @@ const Banner = () => {
         AOS.init({ duration: 3000 })
     }, [])
     return (
-        <div className='md:flex pt-24 pb-4 px-5 ps-10 md:ps-5 w-[90%] mx-auto' id='home'>
+        <div className='md:flex pt-24 pb-4 px-5  md:ps-5 md:w-[90%] mx-auto' id='home'>
             <div className="card lg:card-side  md:w-2/3 mx-auto mb-10 border-gray-950" data-aos='fade-right'>
 
                 <div className="card-body">
